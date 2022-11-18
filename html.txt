@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> bravin's db </title>
+</head>
+<body> bgcolor=blue
+<h1> <center> <bold> BIO DATA </h1> </center> </bold> </br>
+<p> Name:Bravin.M</p>
+<p> DOB:10-05-1999</p>
+<p>Place:Thuckaly</p>
+<p>Qualifcation:BE(mech)</p>
+<p>Email:bravinm98@gmail.com</p>
+<p>Phoneno:9790188409</p>
+<p>Instagram:un_lucky_boy</p>
+</body>
+</html>
