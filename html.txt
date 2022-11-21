@@ -3,6 +3,7 @@
 <title> bravin's db </title>
 </head>
 <body> bgcolor=blue
+<body> background-color="blue"
 <h1> <center> <bold> BIO DATA </h1> </center> </bold> </br>
 <p> Name:Bravin.M</p>
 <p> DOB:10-05-1999</p>
